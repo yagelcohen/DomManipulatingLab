@@ -7,3 +7,9 @@ li {
     margin-left: 20px;
     color: #666;
   }
+  body{
+      width: fit-content;
+      height: fit-content;
+      border: dotted rgb(201, 176, 176);
+      background-color: cadetblue;
+  }
