@@ -12,4 +12,10 @@ li {
       height: fit-content;
       border: dotted rgb(201, 176, 176);
       background-color: cadetblue;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 18px;
+  }
+  #button2{
+    font-size: 16px;
+    background-color: maroon;
   }

@@ -16,7 +16,7 @@ button.onclick= function(){
   listItem.append(button2);
   button2.innerText='Delete';
   list.append(listItem);
-
+  button2.setAttribute("id", "button2")
   button2.onclick = function(e){
     list.removeChild(listItem)
 }
